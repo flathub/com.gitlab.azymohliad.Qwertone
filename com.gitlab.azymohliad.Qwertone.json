@@ -35,8 +35,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/azymohliad/qwertone.git",
-                    "tag": "v0.2.0",
-                    "commit": "bb79059caa81863869748c98788e508c2a054ece"
+                    "tag": "v0.3.0",
+                    "commit": "61a261e19e5e0796dd53a7dfc3318eaeac8f6395"
                 },
                 "dependencies.json"
             ]
