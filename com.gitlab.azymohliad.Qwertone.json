@@ -1,7 +1,7 @@
 {
     "app-id": "com.gitlab.azymohliad.Qwertone",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "40",
+    "runtime-version": "41",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -35,8 +35,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/azymohliad/qwertone.git",
-                    "tag": "v0.3.0",
-                    "commit": "61a261e19e5e0796dd53a7dfc3318eaeac8f6395"
+                    "tag": "v0.4.0",
+                    "commit": "24bcfb08f332eb1b88b599194a20665b25650091"
                 },
                 "dependencies.json"
             ]
